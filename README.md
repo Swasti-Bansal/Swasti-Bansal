@@ -21,6 +21,14 @@ I'm a CSE undergrad passionate about **frontend development** and **data analyti
 
 ---
 
+### 🏆 GitHub Trophies
+ 
+<div align="center">
+![Trophies](https://github-profile-trophy.vercel.app/?username=Swasti-Bansal&theme=tokyonight&no-frame=true&row=1&column=6)
+ 
+</div>
+---
+
 ### 🌐 Let's Connect
 
 <div align="center">
