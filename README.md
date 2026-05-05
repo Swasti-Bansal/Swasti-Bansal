@@ -18,28 +18,6 @@ I'm a CSE undergrad passionate about **frontend development** and **data analyti
 - 🤝 &nbsp; Open to **internships and collaborations**
 - ⚡ &nbsp; Fun fact — I debug better with music on 🎵
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Swasti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swasti-Bansal&show_icons=true&theme=tokyonight&hide_border=true)&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Swasti-Bansal&layout=donut&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Swasti-Bansal&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Swasti-Bansal&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
 
 ---
 
