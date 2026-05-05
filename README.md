@@ -21,17 +21,6 @@ I'm a CSE undergrad passionate about **frontend development** and **data analyti
 
 ---
 
-### 📊 GitHub Stats
- 
-<div align="center">
-![Swasti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swasti-Bansal&show_icons=true&theme=tokyonight&hide_border=true)&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Swasti-Bansal&layout=donut&theme=tokyonight&hide_border=true)
- 
-![GitHub Streak](https://streak-stats.demolab.com?user=Swasti-Bansal&theme=tokyonight&hide_border=true)
- 
-</div>
----
-
 ### 🌐 Let's Connect
 
 <div align="center">
