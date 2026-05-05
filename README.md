@@ -16,7 +16,6 @@ I'm a CSE undergrad passionate about **frontend development** and **data analyti
 - 🌱 &nbsp; Exploring **Machine Learning** and **AWS**
 - 💬 &nbsp; Ask me about **React, Firebase, or Data Analytics**
 - 🤝 &nbsp; Open to **internships and collaborations**
-- ⚡ &nbsp; Fun fact — I debug better with music on 🎵
 
 
 ---
